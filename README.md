@@ -16,4 +16,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![]()
+![](https://media.tenor.com/yaJSw3-OF44AAAAd/corinthians-sao-paulo.gif)
